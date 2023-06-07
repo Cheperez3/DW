@@ -1,9 +1,11 @@
 .card {
-    border: 1px solid #a4a4a5;
+    border: 1px solid #386fc2;
     border-radius: 8px;
     padding: 16px;
     margin-bottom: 16px;
+    color:rgb(22, 39, 99);
 }
+    
 
 .card h2 {
     font-size: 18px;
